@@ -1,6 +1,6 @@
 # TwitterStock
 Twitter Emotion and Stock Price Relation Discovery Program
-Note: Libriries and test data is not included because they are too large.
+<br/>Note: Libriries and test data is not included because they are too large.
 
 Relationship Discovery between stock price of a company and Twitter emotion
 <br/>· Conducted cron jobs on fetching data from Twitter API and Yahoo Finance
